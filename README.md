@@ -27,17 +27,17 @@ Open your browser and configure metamask. Create a wallet and store your```Secre
 
 #### Cloning the project
 
-```git clone https://github.com/Kapcool12/Blockchain_voting_system.git
 
+cd blockchain-voting-system
 
-```cd blockchain-voting-system```
+npm i
 
-```npm i```
+truffle compile
 
-```truffle compile```
+truffle migrate (for first time) 
 
-```truffle migrate```or```truffle migrate --reset``` for subsequent runs
-
-```npm start```
+truffle migrate --reset (Every time you open Ganache)
+ 
+npm start
 
 The project will open in the browser and metamask will ask you to select an account. Select the account we had imported earlier.
