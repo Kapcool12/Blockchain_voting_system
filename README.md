@@ -29,6 +29,7 @@ Open your browser and configure metamask. Create a wallet and store your```Secre
 
 ```git clone https://github.com/Kapcool12/Blockchain_voting_system.git
 
+
 ```cd blockchain-voting-system```
 
 ```npm i```
