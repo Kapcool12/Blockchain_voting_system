@@ -11,7 +11,7 @@
     "start": "lite-server",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build" : "react-scripts build",
+    "build": "react-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -21,6 +21,7 @@
     "lite-server": "^2.6.1"
   },
   "dependencies": {
+    "react-scripts": "^5.0.1",
     "truffle": "^5.5.24"
   }
 }
