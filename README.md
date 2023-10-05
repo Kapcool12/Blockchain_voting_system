@@ -2,7 +2,8 @@
 A blockchain-based voting system that preserves voter privacy and increases accessibility, while keeping the voting system transparent, secure, and cost-effective. The system implements a voting framework that utilizes ethereum’s blockchain and smart contracts to achieve voter administration and auditable voting records. The implementation was deployed on ethereum’s test network to demonstrate usability, scalability, and efficiency.
 
 Screenshots
-![image](https://github.com/Kapcool12/Blockchain_voting_system/assets/94378669/1ba2ae28-a98e-40f2-8a8e-c239e967db12)
+![Votiing](https://github.com/Kapcool12/Blockchain_voting_system/assets/94378669/74ce8435-c852-4fd3-aa53-e349c2606867)
+
 
 
 
