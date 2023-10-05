@@ -1,7 +1,10 @@
 ## ABOUT
 A blockchain-based voting system that preserves voter privacy and increases accessibility, while keeping the voting system transparent, secure, and cost-effective. The system implements a voting framework that utilizes ethereum’s blockchain and smart contracts to achieve voter administration and auditable voting records. The implementation was deployed on ethereum’s test network to demonstrate usability, scalability, and efficiency.
 
-Video guide for project set up and walkthrough : https://www.youtube.com/watch?v=XRHbl3DXabE&t=763s
+Screenshots
+![image](https://github.com/Kapcool12/Blockchain_voting_system/assets/94378669/1ba2ae28-a98e-40f2-8a8e-c239e967db12)
+
+
 
 Pre requisites:
 1. Node JS
@@ -29,7 +32,7 @@ Open your browser and configure metamask. Create a wallet and store your```Secre
 
 #### Cloning the project
 
-```git clone https://github.com/faizscripts/blockchain-voting-system```
+```git clone <repo>
 
 ```cd blockchain-voting-system```
 
